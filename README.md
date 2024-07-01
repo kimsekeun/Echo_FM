@@ -1,16 +1,17 @@
 ## EchoFM - A foundation Model for Echocardiogram
 
-Please contact 	**skim207@mgh.harvard.edu** if you have questions.
-
-### 📝Key features
+## 📝Key features
 
 - EchoFM is pre-trained on 290K Echocardiography with self-supervised learning
 - EchoFM can be efficiently adapted to diverse downstream tasks
 
+## 🎉News
 
-### 🎉News
+## 🌱Quick Start : Download link for EchoFM Weights
 
-### 🔧Install environment
+Download the EchoFM pre-trained weights [will be released soon]
+
+## 🔧Install environment
 
 1. Install dependencies
 
@@ -20,13 +21,13 @@ cd Echo_FM
 pip install -r requirement.txt
 ```
 
-
-### 🌱Download EchoFM weights
-
-1. Download the EchoFM pre-trained weights [will be released soon]
-
-### 📃Citation
+## 📃Citation
 
 If you find this repository useful, please consider citing this paper: [will be released soon]
 ```
+
 ```
+
+## Contact
+
+Please contact 	**skim207@mgh.harvard.edu** if you have questions.
