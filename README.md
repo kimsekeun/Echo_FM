@@ -15,7 +15,7 @@ Please contact 	**skim207@mgh.harvard.edu** if you have questions.
 1. Install dependencies
 
 ```
-git clone https://github.com/kimsekeun/Echo_FM/
+git clone https://github.com/kimsekeun/Echo_FM.git
 cd Echo_FM
 pip install -r requirement.txt
 ```
