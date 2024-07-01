@@ -2,7 +2,7 @@
 
 ## 📝Key features
 
-- EchoFM is pre-trained on 290K Echocardiography with self-supervised learning
+- EchoFM is pre-trained on 290K Echocardiography clips with self-supervised learning
 - EchoFM can be efficiently adapted to diverse downstream tasks
 
 ## 🎉News
