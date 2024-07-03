@@ -1,4 +1,4 @@
-## EchoFM - A foundation Model for Echocardiogram
+## EchoFM - A Foundation Model for Echocardiogram
 
 ## 📝Key features
 
