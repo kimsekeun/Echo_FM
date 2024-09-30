@@ -1,9 +1,12 @@
 ## EchoFM - A Vision Foundation Model for Echocardiogram Video
 
+Official repo for [EchoFM: Foundation Model for Generalizable  Echocardiogram Analysis]
+
 ## 📝Key features
 
 - EchoFM is pre-trained on 290K Echocardiography clips with self-supervised learning
-- EchoFM can be efficiently adapted to diverse downstream tasks
+- EchoFM has been validated in multiple downstream tasks including segmentatino, classification, disease detection tasks.
+- EchoFM can be efficiently adapted to custoised tasks.
 
 ## 🎉News
 
