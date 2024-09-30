@@ -21,6 +21,12 @@ cd Echo_FM
 pip install -r requirement.txt
 ```
 
+
+2. Environment
+This repo contains docker image for Echo_FM. Download Docker image.
+'''
+
+'''
 ## 📃Citation
 
 If you find this repository useful, please consider citing this paper: [will be released soon]
