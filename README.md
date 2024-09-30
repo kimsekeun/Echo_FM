@@ -8,7 +8,7 @@ Official repo for [EchoFM: Foundation Model for Generalizable  Echocardiogram An
 - EchoFM has been validated in multiple downstream tasks including segmentatino, classification, disease detection tasks.
 - EchoFM can be efficiently adapted to customised tasks.
 
-## 🎉News
+## News
 
 ## Quick Start : Download link for EchoFM Weights
 
@@ -29,7 +29,7 @@ pip install -r requirement.txt
 '''
 
 '''
-## 📃Citation
+## Citation
 
 If you find this repository useful, please consider citing this paper: [will be released soon]
 ```
