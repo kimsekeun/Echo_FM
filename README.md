@@ -2,19 +2,19 @@
 
 Official repo for [EchoFM: Foundation Model for Generalizable  Echocardiogram Analysis]
 
-## 📝Key features
+## Key features
 
 - EchoFM is pre-trained on 290K Echocardiography clips with self-supervised learning
 - EchoFM has been validated in multiple downstream tasks including segmentatino, classification, disease detection tasks.
-- EchoFM can be efficiently adapted to custoised tasks.
+- EchoFM can be efficiently adapted to customised tasks.
 
 ## 🎉News
 
-## 🌱Quick Start : Download link for EchoFM Weights
+## Quick Start : Download link for EchoFM Weights
 
 Download the EchoFM pre-trained weights [will be released soon]
 
-## 🔧Install environment
+## Install environment
 
 1. Install dependencies
 
