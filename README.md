@@ -1,4 +1,4 @@
-## EchoFM - A Foundation Model for Echocardiogram
+## EchoFM - A Vision Foundation Model for Echocardiogram Video
 
 ## 📝Key features
 
