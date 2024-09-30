@@ -22,8 +22,7 @@ pip install -r requirement.txt
 ```
 
 
-2. Environment
-This repo contains docker image for Echo_FM. Download Docker image.
+2. Create environment with docker image:
 '''
 
 '''
